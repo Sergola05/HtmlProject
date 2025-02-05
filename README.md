@@ -1,1 +1,5 @@
-# HtmlProject
+beginning
+# Проект с GitFlow
+
+Этот проект демонстрирует использование Git с ветками `master`, `feature1` и `bugfix1`.  
+В нем есть базовый HTML-файл `index.html`, который изменяется по ходу разработки.
